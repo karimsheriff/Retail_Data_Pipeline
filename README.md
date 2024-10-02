@@ -62,4 +62,4 @@ The Star Schema employed in our data warehouse enables efficient and straightfor
 
 The relationships between these tables create a robust framework for analyzing retail sales data, providing insights into product performance, customer behavior, and order fulfillment efficiency. This star schema serves as the backbone of our data-driven decision-making processes and is integral to generating analytical reports in **Power BI**.
 
-<img src="Dataflow.png">
+<img src="Star_schema.png">
