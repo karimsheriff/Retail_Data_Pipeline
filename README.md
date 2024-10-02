@@ -95,7 +95,7 @@ The following insights were derived from the analysis:
 
 In this phase, we focused on creating interactive dashboards using Power BI to present the insights gained from our data analysis. These dashboards provide a user-friendly interface for stakeholders to explore key metrics, trends, and patterns in retail sales data, enabling informed decision-making.
 
-
+<img src="Retails_Dashboard.png">
 
 ### Dashboards Overview ✨✨
 
