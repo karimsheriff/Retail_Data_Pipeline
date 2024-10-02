@@ -1,5 +1,5 @@
 # Retail Data Pipeline & Analysis Project
-This project encompasses a comprehensive data engineering pipeline designed to process and analyze retail sales data. The pipeline integrates data from three CSV files into a staging layer in Hive, where it is transformed and modeled into a data warehouse using a star schema. The processed data provides insights into sales trends, customer behavior, and product performance, which are further analyzed using Hive queries and visualized through Power BI.
+This project is a data engineering pipeline that processes and analyzes retail sales data. The pipeline integrates data from three CSV files into a staging layer in Hive, where it is transformed and modeled into a data warehouse using a star schema. The processed data provides insights into sales trends, customer behavior, and product performance, which are further analyzed using Hive queries and visualized through Power BI.
 
 <img src="Dataflow.png">
 
