@@ -97,7 +97,7 @@ In this phase, we focused on creating interactive dashboards using Power BI to p
 
 <img src="Retails_Dashboard.png">
 
-### Dashboards Overview ✨✨
+### Dashboards Overview
 
 1. **Retail Sales Overview**
    - **Total Sales**: $2.24M
